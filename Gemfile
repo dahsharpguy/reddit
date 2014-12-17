@@ -12,5 +12,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'devise', '~> 3.3.0'
+gem 'better_errors', group: :development
+gem 'binding_of_caller', group: :development
 
 
